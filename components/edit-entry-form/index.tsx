@@ -47,7 +47,7 @@ export default function EntryForm() {
     <form onSubmit={submitHandler}>
       <div className="my-4">
         <label htmlFor="title">
-          <h3 className="font-bold">Title</h3>
+          <h3 className="font-bold text-red-500">Title</h3>
         </label>
         <input
           id="title"
