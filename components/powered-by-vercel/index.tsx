@@ -1,4 +1,4 @@
-function PoweredByVercel() {
+function CreatedBy() {
   return (
     <svg width="212" height="44" viewBox="0 0 212 44" fill="none">
       <rect width="212" height="44" rx="8" fill="black" />
@@ -12,4 +12,4 @@ function PoweredByVercel() {
   )
 }
 
-export default PoweredByVercel
+export default CreatedBy
